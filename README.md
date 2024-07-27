@@ -9,7 +9,7 @@ Setup
 
 Prerequisites Python 3.7 or higher Pip (Python package installer) Google Cloud API key for Generative AI
 
-Installation Clone the repository: git clone (https://github.com/rishabh-jain26/chatbot_LLM.git) cd gemini-qa-project
+Installation Clone the repository: git clone (https://github.com/dhruv-tiwari0/chatbot_using_llm.git) cd gemini-qa-project
 
 Create a virtual environment: python -m venv venv
 
